@@ -69,7 +69,7 @@ dt {font-family:Futura, "Century Gothic", AppleGothic, sans-serif}
 /* HYPERLINKS */
 a {
   text-decoration: none;
-  color: ##BE1941;
+  color: #444444;
   -webkit-transition: color 0.1s linear, border 0.1s linear, opacity 0.1s linear, background-color 0.1s linear;
   -moz-transition: color 0.1s linear, border 0.1s linear, opacity 0.1s linear, background-color 0.1s linear;
   -ms-transition: color 0.1s linear, border 0.1s linear, opacity 0.1s linear, background-color 0.1s linear;
@@ -125,6 +125,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 #main3head{
   text-align: center;
+  color: #BE1941;
 }
 .sny-icon-box{
   margin-bottom:20px;
