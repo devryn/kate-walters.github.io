@@ -266,9 +266,9 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   overflow: hidden;
 }
 .photo img{
- -webkit-border-radius: 4px;
- -moz-border-radius: 4px;
- border-radius: 4px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ border-radius: 100px;
  width: 100%;
 }
 .info{
